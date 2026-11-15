@@ -22,11 +22,11 @@
     "@mastra/loggers": "latest",
     "@mastra/memory": "latest",
     "@mastra/observability": "latest",
-    "ai": "^5.0.111",
-    "csv-parse": "^5.6.0",
+    "ai": "^7.0.173",
+    "csv-parse": "^7.0.3",
     "dotenv": "^17.2.3",
     "pg": "^8.16.3",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "22.19.7",

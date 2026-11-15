@@ -37,10 +37,10 @@
     "@modelcontextprotocol/sdk": "^1.17.5",
     "jsdom": "^26.1.0",
     "local-pkg": "^1.1.2",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
-    "@hono/node-server": "^1.19.9",
+    "@hono/node-server": "^2.1.6",
     "@internal/lint": "workspace:*",
     "@internal/types-builder": "workspace:*",
     "@mastra/core": "workspace:*",
@@ -51,7 +51,7 @@
     "@wong2/mcp-cli": "^1.13.0",
     "cross-env": "^10.1.0",
     "eslint": "^9.37.0",
-    "hono": "^4.11.9",
+    "hono": "^4.13.16",
     "tsup": "^8.5.1",
     "tsx": "^4.21.0",
     "typescript": "catalog:",

@@ -22,9 +22,9 @@
     "@mastra/loggers": "latest",
     "@mastra/memory": "latest",
     "@mastra/observability": "latest",
-    "ai": "^5.0.121",
+    "ai": "^7.0.173",
     "exa-js": "^2.0.9",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.10.9",
