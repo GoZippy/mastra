@@ -223,7 +223,7 @@
     "@sindresorhus/slugify": "^2.2.1",
     "dotenv": "^17.2.3",
     "gray-matter": "^4.0.3",
-    "hono": "^4.11.9",
+    "hono": "^4.13.16",
     "hono-openapi": "^1.1.1",
     "js-tiktoken": "^1.0.21",
     "json-schema": "^0.4.0",
@@ -278,7 +278,7 @@
     "tsup": "^8.5.1",
     "typescript": "catalog:",
     "vitest": "catalog:",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "engines": {
     "node": ">=22.13.0"

@@ -16,12 +16,12 @@
     "@mastra/libsql": "latest",
     "@mastra/memory": "latest",
     "@tailwindcss/postcss": "^4.1.18",
-    "ai": "^5",
+    "ai": "^7",
     "next": "^16",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "swr": "^2.3.3",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
