@@ -39,11 +39,11 @@
     "@vitest/coverage-v8": "catalog:",
     "@vitest/ui": "catalog:",
     "eslint": "^9.37.0",
-    "pnpm": "10.29.3",
+    "pnpm": "10.34.5",
     "tsup": "^8.5.1",
     "typescript": "catalog:",
     "vitest": "catalog:",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "keywords": [
     "mastra",
